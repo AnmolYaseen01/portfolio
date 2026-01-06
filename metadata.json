@@ -1,0 +1,9 @@
+{
+  "name": "Wakalat.ai",
+  "description": "An AI-powered legal guidance platform for Pakistani citizens to understand documents, assess legal cases, and find next steps in simplified language.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
